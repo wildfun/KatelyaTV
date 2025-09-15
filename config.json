@@ -12,7 +12,7 @@
       "is_adult": false
     },
     "ffzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "name": "官方3",
       "is_adult": false
     }
