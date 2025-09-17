@@ -2,23 +2,23 @@
   "cache_time": 7200,
   "api_site": {
     "360": {
-      "api": "https://360zyzz.com/api.php/provide/vod",
-      "name": "官方1",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
+      "name": "官方1无广告(推荐)",
       "is_adult": false
     },
     "aqy": {
       "api": "https://www.iqiyizy.com/api.php/provide/vod",
-      "name": "官方2",
+      "name": "官方2内置广告",
       "is_adult": false
     },
     "db": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "name": "官方3",
+      "name": "官方3内置广告",
       "is_adult": false
     },
     "gf": {
-      "api": "http://zy.xmm.hk/api.php/provide/vod",
-      "name": "官方4(推荐)",
+      "api": "https://360zyzz.com/api.php/provide/vod",
+      "name": "官方4内置广告",
       "is_adult": false
     }
   }
